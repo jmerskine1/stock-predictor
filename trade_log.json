@@ -1,0 +1,22 @@
+[
+  {
+    "symbol": "AAPL",
+    "qty": 23,
+    "buy_time": "2025-07-28T12:04:53.211724",
+    "status": "closed",
+    "sell_time": "2025-12-16T16:14:04.245483"
+  },
+  {
+    "symbol": "TSLA",
+    "qty": 15,
+    "buy_time": "2025-07-28T12:04:56.079777",
+    "status": "open"
+  },
+  {
+    "symbol": "MSFT",
+    "qty": 9,
+    "buy_time": "2025-07-28T12:04:57.122649",
+    "status": "closed",
+    "sell_time": "2025-12-16T16:14:04.557934"
+  }
+]
